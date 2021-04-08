@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924502657940",
+    "project_id": "timer-tracker-1b996",
+    "storage_bucket": "timer-tracker-1b996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924502657940:android:96176f713d0f4d4c7f1d81",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924502657940-3n63vopjkki60jhpbspikejodf7agald.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_app",
+            "certificate_hash": "1e324f87fec5d1d1fbc4ffecaa22de28a0ceacd6"
+          }
+        },
+        {
+          "client_id": "924502657940-6q0be8t27u0nfugfou7ev8aultedbban.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jKiCnq2uCGPct50Gd5xRvnWl8NSoRnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924502657940-6q0be8t27u0nfugfou7ev8aultedbban.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
